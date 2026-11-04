@@ -3,13 +3,10 @@ public:
     int minMoves(vector<int>& nums) {
         int n=nums.size();
         if(n==1) return 0;
-        int max=nums[0];
-        for(int i=1;i<n;i++){
-            if(nums[i]>max) max=nums[i];
-        }
+        sort(nums.begin(),nums.end());
         int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=abs(max-nums[i]);
+        for(int i=0;i<n-1;i++){
+            sum+=abs(nums[n-1]-nums[i]);
         }
         return sum;
     }
