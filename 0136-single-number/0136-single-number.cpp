@@ -5,12 +5,11 @@ public:
         if(n==1) return nums[0];
         sort(nums.begin(),nums.end());
         int i=0;
-        int res=INT_MAX;
-        while(i<nums.size()-1){
-            if(nums[i]!=nums[i+1]) {res=nums[i]; break;}
+        while(i<n){
+            if(i==n-1) return nums[i];
+            else if(nums[i]!=nums[i+1]) return nums[i];
             i+=2;
         }
-        if(res==INT_MAX) return nums[n-1];
-        return res;
+        return -1;
     }
 };
