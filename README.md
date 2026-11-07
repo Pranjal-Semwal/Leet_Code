@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+| [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
