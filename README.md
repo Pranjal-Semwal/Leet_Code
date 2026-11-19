@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
