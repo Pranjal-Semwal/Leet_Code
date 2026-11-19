@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
