@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
