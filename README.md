@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
 ## Bit Manipulation
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0050-powx-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
