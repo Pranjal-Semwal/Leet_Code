@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0050-powx-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
