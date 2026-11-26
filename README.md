@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranjal-Semwal/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
